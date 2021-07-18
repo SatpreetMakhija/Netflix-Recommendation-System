@@ -6,6 +6,11 @@ with open("output.txt") as f:
 z = first.split(",")
 
 dict = {'url': z}
-df = pd.DataFrame(dict)
+df = pd.DataFrame(z)
 
 df.to_csv("x.csv")
+
+
+
+
+

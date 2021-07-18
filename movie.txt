@@ -1,9 +1,25 @@
-Ozark
-A financial adviser drags his family from Chicago to the Missouri Ozarks, where he must launder $500 million in five years to appease a drug boss.
-Crime TV Shows, TV Dramas, TV Thrillers
-Jason Bateman, Sofia Hublitz, Laura Linney, Skylar Gaertner, Jason Butler Harner, Esai Morales, Peter Mullan, Lisa Emery
-United States
-2020
+Peaky Blinders
+A notorious gang in 1919 Birmingham, England, is led by the fierce Tommy Shelby, a crime boss set on moving up in the world no matter the cost.
+
+British TV Shows, Crime TV Shows, International TV Shows
+Cillian Murphy, Sam Neill, Helen McCrory, Paul Anderson, Iddo Goldberg, Annabelle Wallis, Sophie Rundle, Tom Hardy, Joe Cole, Ned Dennehy, Andy Nyman, Charlie Creed-Miles, Charlotte Riley, David Dawson, Jeffrey Postlethwaite, Matthew Postlethwaite, Ian Peck, Tony Pitts, Aidan Gillen, Adrien Brody, Charlie Murphy, Aimee-Ffion Edwards
+United Kingdom
+2019
 TV-MA
-3 Seasons
-8.3/10
+5 Seasons
+8.9/10
+TV Show
+October 4, 2019
+Fear Street Part 3: 1666
+Thrust back to 1666, Deena learns the truth about Sarah Fier. Back in 1994, the friends fight for their lives — and Shadyside’s future.
+Leigh Janiak
+Horror Movies, LGBTQ Movies
+Kiana Madeira, Ashley Zukerman, Gillian Jacobs, Olivia Scott Welch, Benjamin Flores Jr., Darrell Britt-Gibson, Sadie Sink, Emily Rudd, McCabe Slye, Julia Rehwald, Fred Hechinger, Jordana Spiro, Jordyn DiNatale
+
+2021
+R
+114 min
+
+Movie
+July 16, 2021
+[['43b99d15-b8bc-4ddb-b72f-c70bec6bd10e', 'Peaky Blinders', 'A notorious gang in 1919 Birmingham, England, is led by the fierce Tommy Shelby, a crime boss set on moving up in the world no matter the cost.', '', 'British TV Shows, Crime TV Shows, International TV Shows', 'Cillian Murphy, Sam Neill, Helen McCrory, Paul Anderson, Iddo Goldberg, Annabelle Wallis, Sophie Rundle, Tom Hardy, Joe Cole, Ned Dennehy, Andy Nyman, Charlie Creed-Miles, Charlotte Riley, David Dawson, Jeffrey Postlethwaite, Matthew Postlethwaite, Ian Peck, Tony Pitts, Aidan Gillen, Adrien Brody, Charlie Murphy, Aimee-Ffion Edwards', 'United Kingdom', '2019', 'TV-MA', '5 Seasons', '8.9/10', 'TV Show', 'October 4, 2019'], ['106b4a9c-0147-4cf2-8a9c-0d0eb2114bb3', 'Fear Street Part 3: 1666', 'Thrust back to 1666, Deena learns the truth about Sarah Fier. Back in 1994, the friends fight for their lives — and Shadyside’s future.', 'Leigh Janiak', 'Horror Movies, LGBTQ Movies', 'Kiana Madeira, Ashley Zukerman, Gillian Jacobs, Olivia Scott Welch, Benjamin Flores Jr., Darrell Britt-Gibson, Sadie Sink, Emily Rudd, McCabe Slye, Julia Rehwald, Fred Hechinger, Jordana Spiro, Jordyn DiNatale', '', '2021', 'R', '114 min', '', 'Movie', 'July 16, 2021']]
